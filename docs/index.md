@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+| Tables        | Are           | Cool  |
+| ------------- |---------------| ------|
+|<audio id="audio" controls="" preload="none"> <source id="mp3" src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"> </audio>   | right-aligned | $1600 |
+|               | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
