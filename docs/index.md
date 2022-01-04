@@ -39,7 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 | Tables        | Are           | Cool  |
 | ------------- |---------------| ------|
-|<audio id="audio" controls="" preload="none"> <source id="mp3" src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"> </audio>   | right-aligned | $1600 |
+|<audio id="audio" controls="" preload="none">
+ <source id="mp3" src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"> 
+ </audio>   | right-aligned | $1600 |
 |               | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
