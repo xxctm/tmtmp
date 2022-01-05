@@ -48,10 +48,11 @@ Noisy source (Speaker SF3; Noise type: Cry (N93); SNR level: 15dB):
 
 Denosied source:
 
-Target (Speaker TF2): <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
+Target (Speaker TF2): 
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
 
 
-https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav
+
  
 
 | Methods             | Clean         | Noisy            |
