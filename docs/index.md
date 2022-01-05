@@ -44,22 +44,30 @@ Speech dataset: [VCC 2018 Evaluation set](https://datashare.ed.ac.uk/handle/1028
 
 Noise dataset: [PNL 100 Nonspeech](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (N86 to N100 for evaluation set)
 
-Noisy source (Speaker SF3; Noise type: Cry (N93); SNR level: 15dB):
+### Noisy source (Speaker SF3; Noise type: Cry (N93); SNR level: 15dB):
 
 Denosied source:
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOThf/denoised_sf3_30016_n93_snr15.wav"></audio>
 
 Target (Speaker TF2): 
 <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
-
-
-
- 
 
 | Methods             | Clean         | Noisy            |
 |---------------------|---------------|------------------|
 |Baseline             |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTVf/base_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzODlf/da_15_sf3tf2_30016_n93.wav"></audio>   |
 |Proposed (Improved 2)|   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTZf/method2_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI2MTZf/md_15_sf3tf2_30016_n93.wav"></audio>   |
 |Upper Bound          |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNzBf/ca_15_sf3tf2_30016_n93.wav"></audio>   |
+
+
+Target (Speaker TM2): 
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
+
+| Methods             | Clean         | Noisy            |
+|---------------------|---------------|------------------|
+|Baseline             |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTVf/base_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzODlf/da_15_sf3tf2_30016_n93.wav"></audio>   |
+|Proposed (Improved 2)|   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTZf/method2_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI2MTZf/md_15_sf3tf2_30016_n93.wav"></audio>   |
+|Upper Bound          |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNzBf/ca_15_sf3tf2_30016_n93.wav"></audio>   |
+
 
 
 
