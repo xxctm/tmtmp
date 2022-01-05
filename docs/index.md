@@ -77,19 +77,19 @@ Target (Speaker TM2):
 
 
 ### 3. Noisy source (Speaker SM3;  Noise type: Snore (N87);  SNR level: 7dB):
-<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTNf/noisy_sf4_30026_n100_snr7.wav"></audio>
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTdf/noisy_sm3_30010_n87_snr7.wav"></audio>
 
 Denosied source:
-<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTFf/denoised_sf4_30026_n100_snr7.wav"></audio>
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTVf/denoised_sm3_30010_n87_snr7.wav"></audio>
 
-Target (Speaker TM2): 
-<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMDRf/TM2_30002.wav"></audio>
+Target (Speaker TF2): 
+<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNThf/TF2_30012.wav"></audio>
 
 | Methods             | Clean         | Noisy            |
 |---------------------|---------------|------------------|
-|Baseline                    |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMDlf/base_sf4tm2_30026_n100_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzMjdf/da_7_sf4tm2_30026_n100.wav"></audio>   |
-|Proposed (Improved 2 Direct)|   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTBf/method2_sf4tm2_30026_n100_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI1OTNf/md_7_sf4tm2_30026_n100.wav"></audio>   |
-|Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxMTVf/upper_clean_sf4tm2_30026.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyMzdf/ca_7_sf3tm2_30026_n100.wav"></audio>   |
+|Baseline                    |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTBf/base_sm3tf2_30010_n87_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTJf/da_7_sm3tf2_30010_n87.wav"></audio>   |
+|Proposed (Improved 2 Direct)|   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTZf/method2_sm3tf2_30010_n87_snr7.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTRf/md_7_sm3tf2_30010_n87.wav"></audio>   |
+|Upper Bound                 |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTlf/upper_sm3tf2_30010.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQxNTFf/ca_7_sm3tf2_30010_n87.wav"></audio>   |
 
 
 
