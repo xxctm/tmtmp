@@ -44,11 +44,11 @@ Speech dataset: [VCC 2018 Evaluation set](https://datashare.ed.ac.uk/handle/1028
 
 Noise dataset: [PNL 100 Nonspeech](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (N86 to N100 for evaluation set)
 
-Noisy source (Speaker SF3; Noise type: Cry; SNR level: 15dB):
+Noisy source (Speaker SF3; Noise type: Cry (N93); SNR level: 15dB):
 
 Denosied source:
 
-Target: <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
+Target (Speaker TF2): <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
 
  
 
