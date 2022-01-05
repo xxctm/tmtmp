@@ -36,6 +36,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+## Samples of Noisy-to-Noisy Voice Conversion framework
+
+Those samples come from the [paper](https://arxiv.org/abs/2111.07116).
+
+Speech dataset: [VCC 2018 Evaluation set](https://datashare.ed.ac.uk/handle/10283/3061)
+
+Noise dataset: [PNL 100 Nonspeech](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) (N86 to N100 for evaluation set)
 
 Noisy source (Speaker SF3; Noise type: Cry; SNR level: 15dB):
 
