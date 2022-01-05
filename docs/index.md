@@ -41,11 +41,13 @@ Noisy source (Speaker SF3; Noise type: Cry; SNR level: 15dB):
 Denosied source:
 Target: <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
 
+ 
+
 | Methods             | Clean         | Noisy            |
 |---------------------|---------------|------------------|
-|Baseline             | right-aligned | $1600 |
-|Proposed (Improved 2)| centered      |   $12 |
-|Upper Bound          |Proposed(Improved 2)|<audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"></audio>|
+|Baseline             | right-aligned |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzODlf/da_15_sf3tf2_30016_n93.wav"></audio>   |
+|Proposed (Improved 2)| centered      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI2MTZf/md_15_sf3tf2_30016_n93.wav"></audio>   |
+|Upper Bound          |Proposed(      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"></audio>   |
 
 
 
