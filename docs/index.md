@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## Samples of Noisy-to-Noisy Voice Conversion framework
+# Samples of Noisy-to-Noisy Voice Conversion Framework
 
 Those samples come from the [paper](https://arxiv.org/abs/2111.07116).
 
@@ -50,13 +50,15 @@ Denosied source:
 
 Target (Speaker TF2): <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwODZf/TF2_30002.wav"></audio>
 
+
+https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav
  
 
 | Methods             | Clean         | Noisy            |
 |---------------------|---------------|------------------|
-|Baseline             | right-aligned |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzODlf/da_15_sf3tf2_30016_n93.wav"></audio>   |
-|Proposed (Improved 2)| centered      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI2MTZf/md_15_sf3tf2_30016_n93.wav"></audio>   |
-|Upper Bound          |Proposed(      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNzBf/ca_15_sf3tf2_30016_n93.wav"></audio>   |
+|Baseline             |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTVf/base_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIzODlf/da_15_sf3tf2_30016_n93.wav"></audio>   |
+|Proposed (Improved 2)|   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTZf/method2_clean_sf3tf2_30016_n93_snr15.wav"></audio>   |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjI2MTZf/md_15_sf3tf2_30016_n93.wav"></audio>   |
+|Upper Bound          |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMjA5NzQwOTdf/upper_clean_sf3tf2_30016.wav"></audio>      |   <audio id="audio" controls="" preload="none"><source id="wav" src="https://od.lk/s/NTBfMTk4NjIyNzBf/ca_15_sf3tf2_30016_n93.wav"></audio>   |
 
 
 
